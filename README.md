@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Iojthoh
 - 
-- 👀 I’m interested in: reading physics,coding and to know the reality of myself etc
-- 
 - 🌱 I’m currently learning: html,cpp and how to use github
 - 
 - 📫 How to reach me: Iojthoh4k@gmail.com
